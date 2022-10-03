@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fadedtextsize">18sp</dimen>
+    <dimen name="btnpaddingvertical">8dp</dimen>
+    <dimen name="btnpaddinghorizontal">35dp</dimen>
+    <dimen name="btntextsize">20sp</dimen>
+    <dimen name="timertextsize">50sp</dimen>
+</resources>
